@@ -34,7 +34,7 @@ function convert() {
       break;
   }
 
-  // Converters metros para unidade de saida
+  // Converter metros para unidade de saida
   let result;
 
   switch (toValue) {
